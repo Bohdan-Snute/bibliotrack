@@ -1,0 +1,8 @@
+[submodule "bibliotrack-web"]
+	path = bibliotrack-web
+	url = git@github.com:Thomas-Muller-20/bibliotrack-web.git
+	branch = main
+[submodule "bibliotrack-api"]
+	path = bibliotrack-api
+	url = https://github.com/Thomas-Muller-20/bibliotrack-api
+	branch = main
