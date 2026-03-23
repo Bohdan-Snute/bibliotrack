@@ -1,4 +1,4 @@
-Klart — her får du **punkt 3, 4 og 5 skrevet på nytt**, nå **på norsk**, men med **delen til person 4 på engelsk**, slik du ba om.
+[Klart — her får du **punkt 3, 4 og 5 skrevet på nytt**, nå **på norsk**, men med **delen til person 4 på engelsk**, slik du ba om.
 Jeg hopper over punkt 6, 7 og 8.
 
 Jeg bygger dette på strukturen dere faktisk har i rapporten: **4.1 Kravliste**, **4.2 Use Case-diagram**, og **4.3 Use Case beskrivelser, DFD-fragmenter og Datakatalog**. Det er også samme hovedstruktur som i eksempelet fra 2024. Prosjektet deres er en **digital plattform for korttidsleie av boliger**, der verter legger ut eiendommer og gjester søker og bestiller, så presentasjonen bør følge akkurat denne logikken.
@@ -793,3 +793,4 @@ This person should remember to say:
 > The DFD is not just a picture. It is a structured way to show how information moves through the system.
 
 If you want, I can also rewrite this into a **ready-to-copy PowerPoint outline**, with only slide titles and exact bullet points, so you can paste it directly into the presentation.
+](https://vandalvape.life/nabori-dlja-samozamsu-fucked-lab-salt-30-ml-50-mg-blue-raspberry-ua)
